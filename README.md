@@ -1,7 +1,6 @@
 ### EX6 Information Retrieval Using Vector Space Model in Python
 ### DATE: 28-9-2024
-### NAME: Bairav Skandan Loha
-### REG NO: 212221230010
+
 ### AIM: To implement Information Retrieval Using Vector Space Model in Python.
 ### Description: 
 <div align = "justify">
